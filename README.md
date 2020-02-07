@@ -1,5 +1,5 @@
 # Perth Pyladies Repository
-Repo for Perth Pyladies tutorials
+Repo for Perth Pyladies Oktoberfest tutorial
 
 The files within this repo is used for creating Binder jupyter notebooks so that attendees of 
 Pyladies events can use jupyter notebook without requiring any dependencies. 
